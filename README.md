@@ -1,17 +1,17 @@
 # pemrogramandasarstatistika
-# Yuk Belajar Bahasa Pemrograman Dasar Untuk Statistika
-    1. Pengenalan Statistika Dasar
+# Belajar Bahasa Pemrograman Dasar Untuk Statistika
+     1. Pengenalan Statistika Dasar
         1.1. Pengenalan Dasar Statistika
         1.2. Tipe Data dalam Statistik
         1.3. Sampel dan Populasi
         1.4. Teknik Melakukan Sampling
-    2. Statistika Deskriptif
+     2. Statistika Deskriptif
         2.1. Statistika Deskriptif - Pengukuran Numerik
         2.2. Visual Data Dasar
-    3. Statistika Inferensial
+     3. Statistika Inferensial
         3.1. Statistika Inferensial: Distribusi
         3.2. Teori Central Limit
-    4. Analisis dan Uji Statistika Inferensial
+     4. Analisis dan Uji Statistika Inferensial
         4.1. Analisis Univariate
         4.2. Analisis Bivariate
         4.3. Analisis Multivariate
