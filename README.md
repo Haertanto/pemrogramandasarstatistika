@@ -1,5 +1,5 @@
 # pemrogramandasarstatistika
-Yuk Belajar Bahasa Pemrograman Dasar Untuk Statistika
+# Yuk Belajar Bahasa Pemrograman Dasar Untuk Statistika
     1. Pengenalan Statistika Dasar
         1.1. Pengenalan Dasar Statistika
         1.2. Tipe Data dalam Statistik
