@@ -1,6 +1,6 @@
 # Belajar Bahasa Pemrograman Dasar Untuk Statistika
 ## 1. Pengenalan Statistika Dasar
-1.1. Pengenalan Dasar Statistika
+[1.1. Pengenalan Dasar Statistika](https://github.com/Haertanto/pemrogramandasarstatistika/blob/main/Materi/1.1.%20Pengenalan%20Statistika%20Dasar.md)
 
 1.2. Tipe Data dalam Statistik
 
